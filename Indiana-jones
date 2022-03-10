@@ -1,0 +1,25 @@
+<?php
+
+$movie = 'Indiana Jones et le Royaume du crâne de cristal';
+echo $movie ;
+
+$view = true;
+    
+echo "</br>";
+      
+echo $view;
+
+echo "</br>";
+
+
+$years = 1989;
+echo $years ;
+
+echo "</br>";
+
+
+$note = 8.3; 
+echo $note ;
+
+
+?>
